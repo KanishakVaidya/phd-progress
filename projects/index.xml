@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Kanishak Vaidya PhD Progress</title><link>https://kanishakvaidya.github.io/phd-progress/projects/</link><description>Recent content in Projects on Kanishak Vaidya PhD Progress</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://kanishakvaidya.github.io/phd-progress/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>M.Tech Projects</title><link>https://kanishakvaidya.github.io/phd-progress/projects/mtech/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kanishakvaidya.github.io/phd-progress/projects/mtech/</guid><description>&lt;ul>
+&lt;li>Image segmentation using watershed transform&lt;/li>
+&lt;li>Image mosaic using homography estimation&lt;/li>
+&lt;li>Computer vision: Finding rotation and translation direction using two images&lt;/li>
+&lt;/ul></description></item><item><title>B.Tech Projects</title><link>https://kanishakvaidya.github.io/phd-progress/projects/btech/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kanishakvaidya.github.io/phd-progress/projects/btech/</guid><description>&lt;ul>
+&lt;li>Tow-wheel self balancing robot&lt;/li>
+&lt;li>plant self care system&lt;/li>
+&lt;li>Pizza delivery system&lt;/li>
+&lt;li>Gesture controlled wheelchair&lt;/li>
+&lt;li>Home security alarm&lt;/li>
+&lt;/ul></description></item><item><title>Hobby Projects</title><link>https://kanishakvaidya.github.io/phd-progress/projects/hobby/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kanishakvaidya.github.io/phd-progress/projects/hobby/</guid><description>&lt;ul>
+&lt;li>Linux distribution&lt;/li>
+&lt;li>Software repositories&lt;/li>
+&lt;/ul></description></item></channel></rss>
