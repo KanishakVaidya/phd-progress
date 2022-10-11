@@ -1,0 +1,19 @@
+#+title: Hobby Projects
+#+weight: 6
+#+lead: Technical projects I've worked on during my B.Tech
+#+comments:
+#+authorbox:
+#+pager:
+#+mathjax: true
+#+sidebar:
+#+widgets[]: search recent taglist
+
+- Linux distribution
+- Software repositories
+# more
+* Linux Distribution
+- [[https://github.com/KanishakVaidya/arch-KVOS][GitHub Link]]
+  Created a linux distribution on top of Arch linux. The distribution uses a manual tiling window manager. Written various modules, scripts and programs to make the distribution lightweight and powerful at the same time.
+* Software Repositories
+- [[https://github.com/KanishakVaidya/kv-arch-repo][GitHub Link]]
+I maintain my own repositories of softwares that I use quite often and whose pre-build binaries are unavailable.

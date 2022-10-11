@@ -1,0 +1,51 @@
+#+title: BIO
+#+description: Kanishak Vaidya PhD Progress
+#+weight: 5
+#+menu: main
+#+lead: Basic information about Kanishak Vaidya
+#+comments: false
+#+authorbox:
+#+pager:
+#+toc:
+#+mathjax: true
+#+sidebar:
+#+widgets[]: search tags social
+
+* About Kanishak Vaidya
+#+attr_html: alt: Kanishak Vaidya title: Headshot :width 300 :style float:left;margin:20px;margin-right:60px
+[[/phd-progress/profile-transparent.png]]
+
+** KANISHAK VAIDYA
+*** DOB: /10 December, 1995/
+*** Email: [[kanishakvaidya@gmail.com]]
+*** Address: /IISc Bangalore, CV Raman Rd, Bengaluru, Karnataka. 560012/
+*** [[/phd-progress/resume.pdf][Download RESUME]]
+
+
+#+attr_html: :style clear:both
+  -----
+
+** Academic Background
+Kanishak Vaidya received the B.Tech. degree in Electronics and Communication Engineering from JawaharLal Nehru Government Engineering College, Sundernagar, HP India in 2017. He joined IISc Bangalore for M.Tech is Signal Processing in 2018 and is currently working towards the PhD degree with the Department of Electrical Communication Engineering, IISc Bangalore, India.
+
+*** Courses done in PhD
+| Matrix Theory                           | Random Process                     |
+| Error Control Coding                    | Computer Vision                    |
+| Advance topics in Coding theory         | Detection and Estimation Theory    |
+| Digital Communication                   | Linear and Non Linear Optimization |
+| Space Time Signal Processing and Coding | Digital Image Processing           |
+| Time Frequency Analysis                 |                                    |
+
+| Credits : 34 | CGPA: 8.9 |
+-----
+** Achievements
++ All India Rank 10 in GATE (EC), 2018. GATE Score: 1000
++ 30th All India Rank in Junior Mathematical Olympiad, 2011
+-----
+** PhD Guide
+#+attr_html: alt: Prof. B S Rajan title: Prof. B Sundar Rajan :width 300 :style float:left;margin-right:60px
+[[/phd-progress/guide.jpg]]
+** Prof. B. Sundar Rajan
+*** Email: [[bsrajan@iisc.ac.in]]
+*** Senior Professor /Department of Electrical Communication Engineering, Indian Institute of Science, Bangalore/
+*** Website: [[https://ece.iisc.ac.in/~bsrajan/]]

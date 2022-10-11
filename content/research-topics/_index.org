@@ -1,0 +1,14 @@
+#+title: Research topics
+#+date: October 04, 2022
+#+description: Areas of research interest during PhD
+#+tags[]: results publications papers
+#+weight: 2
+#+menu: main
+#+lead: Areas of research interest during PhD
+#+comments:
+#+authorbox:
+#+pager: true
+#+mathjax: true
+#+sidebar: right
+#+widgets[]: search recent taglist
+

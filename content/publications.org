@@ -1,0 +1,25 @@
+#+title: Publications
+#+date: October 04, 2022
+#+description: List of published results
+#+weight: 3
+#+menu: main
+#+lead: List of published results
+#+comments:
+#+authorbox:
+#+pager: true
+#+mathjax: true
+#+sidebar:
+#+widgets[]: search recent taglist
+
+
+* Conferences
+- Kanishak Vaidya and B. Sundar Rajan, ``Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,'' 2020 - 2020 IEEE Global Communications Conference, 2020, pp. 1-6, doi: 10.1109/GLOBECOM42002.2020.9322092.
+- Kanishak Vaidya and B. Sundar Rajan, ``Private Information Delivery with Coded Storage,'' 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June -- 2 July 2022.
+
+* Workshops
+- Kanishak Vaidya and B. Sundar Rajan, ``Cache-Aided Multi-Access Multi-User Private Information Retrieval,'' in Wi-Opt CCDWN 2022, Turin, Italy, 19 -- 23 September 2022.
+
+* ArXiv Submissions
+- Kanishak Vaidya and B. Sundar Rajan, ``Private Information Delivery with Coded Storage,'' arXiv:2202.03803, 8 Feb 2022.
+- Kanishak Vaidya and B. Sundar Rajan, ``Multi-Access Cache-Aided Multi-User Private Information Retrieval,'' arXiv:2201.11481, 9 Feb 2022.
+

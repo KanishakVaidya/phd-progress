@@ -1,0 +1,10 @@
+#+title: Projects
+#+weight: 4
+#+menu: main
+#+lead: Technical and hobby projects that I've worked on
+#+comments:
+#+authorbox:
+#+pager:
+#+mathjax: true
+#+sidebar: right
+#+widgets[]: search recent taglist
