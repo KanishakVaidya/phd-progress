@@ -17,7 +17,7 @@
 - Kanishak Vaidya and B. Sundar Rajan, ``Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,'' 2020 - 2020 IEEE Global Communications Conference, 2020, pp. 1-6, doi: 10.1109/GLOBECOM42002.2020.9322092. [[[https://ieeexplore.ieee.org/document/9322092][IEEE]]]
 
 * Workshops
-- Kanishak Vaidya and B. Sundar Rajan, ``Cache-Aided Multi-Access Multi-User Private Information Retrieval,'' in Wi-Opt CCDWN 2022, Turin, Italy, 19 -- 23 September 2022.
+- Kanishak Vaidya and B. Sundar Rajan, ``Cache-Aided Multi-Access Multi-User Private Information Retrieval,'' in Wi-Opt CCDWN 2022, Turin, Italy, 19 -- 23 September 2022. [[[https://ieeexplore.ieee.org/document/9930597][IEEE]]]
 
 * ArXiv Submissions
 - Kanishak Vaidya and B. Sundar Rajan, ``Multi-Access Cache-Aided Multi-User Private Information Retrieval,'' arXiv:2201.11481, 9 Feb 2022. [[[https://arxiv.org/abs/2201.11481][ArXiv Link]]]
