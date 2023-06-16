@@ -1,0 +1,28 @@
+#+title: Research Topics
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style.css" />
+#+OPTIONS: html-style:nil toc:nil title:nil num:nil timestamp:nil
+
+#+begin_export html
+<ul class="sidebar" id="mySideNav">
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()"><b>MENU</b></a>
+  <a href="../index.html">Home</a>
+  <a class="active" href="../research-topics/_index.html">Research Topics</a>
+  <a href="../publications.html">Publications</a>
+  <a href="../projects/_index.html">Projects</a>
+  <a href="../bio.html">Bio</a>
+</ul>
+#+end_export
+
+#+INCLUDE: ../logo.org
+
+* [[./PID.org][Private Information Delivery]]
+Suppose a company outsources some of its user activity log data externally for statistical analysis, while it does not wish to reveal sensitive information about the user identities (e.g., names, addresses, groups). Or a hospital wants to send the medical record of a patient externally (e.g., for analysis of certain disease that goes beyond the capability of the current hospital), and it is desirable that the name of the patient is not revealed (i.e., the privacy of the patient is preserved). Such problems comes under the umbrella of private information delivery (PID).
+
+* [[./PIR.org][Private Information Retrieval]]
+Consider an investor that queries the stock-market database for the value of a certain stock may wish to keep private the identity of the stock he is interested in. Private information retrieval (PIR) is a protocol that allows a user to retrieve an item from distributed servers, in possession of a database without revealing which item is retrieved.
+
+* [[./coded-caching.org][Coded Caching]]
+The high temporal variability of network traffic results in communication systems that are congested during peak-traffic times and underutilized during off-peak times. One approach to reduce peak traffic is to take advantage of memories distributed across the network (at end users, routers, …) to duplicate content. This duplication of content, called content placement or caching, is performed during off-peak hours when network resources are abundant. During peak hours, when network resources are scarce, user requests can then be served exploiting these caches to reduce network congestion.
+
+* [[./computing.org][Distributed Computing]]
+In distributed computation system, a master performs a computation by distributing it into smaller sub-computations and each sub-computation is performed by a worker node. Slow workers also known as stragglers nodes could become a bottleneck for the computation. As master's data is being shared by external workers, the privacy of data and master's behavior (demand patterns etc.) is also a matter of concern. Also distributed computations are much more susceptible to erroneous communication or malicious workers that may send arbitrary data to affect the computation. While these constraints are building upon distributed computing framework, low upload and download costs are preferred. Coding theoretic techniques are being used to overcome these and other challenges in distributed computation.

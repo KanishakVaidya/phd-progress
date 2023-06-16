@@ -1,0 +1,32 @@
+#+title: Projects
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style.css" />
+#+OPTIONS: html-style:nil toc:nil title:nil num:nil timestamp:nil
+
+#+begin_export html
+<ul class="sidebar" id="mySideNav">
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()"><b>MENU</b></a>
+  <a href="../index.html">Home</a>
+  <a href="../research-topics/_index.html">Research Topics</a>
+  <a href="../publications.html">Publications</a>
+  <a class="active" href="./_index.html">Projects</a>
+  <a href="../bio.html">Bio</a>
+</ul>
+#+end_export
+
+#+INCLUDE: ../logo.org
+
+* [[./btech.org][B.Tech Projects]]
+- Tow-wheel self balancing robot
+- plant self care system
+- Pizza delivery system
+- Gesture controlled wheelchair
+- Home security alarm
+
+* [[./mtech.org][M.Tech Projects]]
+- Image segmentation using watershed transform
+- Image mosaic using homography estimation
+- Computer vision: Finding rotation and translation direction using two images
+
+* [[./hobby.org][Hobby Projects]]
+- Linux distribution
+- Software repositories

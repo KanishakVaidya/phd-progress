@@ -1,0 +1,24 @@
+#+title: Hobby Projects
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style.css" />
+#+OPTIONS: html-style:nil toc:nil title:nil num:nil timestamp:nil
+
+#+begin_export html
+<ul class="sidebar" id="mySideNav">
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()"><b>MENU</b></a>
+  <a href="../index.html">Home</a>
+  <a href="../research-topics/_index.html">Research Topics</a>
+  <a href="../publications.html">Publications</a>
+  <a class="active" href="./_index.html">Projects</a>
+  <a href="../bio.html">Bio</a>
+</ul>
+#+end_export
+
+#+INCLUDE: ../logo.org
+
+* Linux Distribution
+- [[https://kanishakvaidya.github.io/arch-kvos/][Link to website]]
+- [[https://github.com/KanishakVaidya/arch-kvos][GitHub Link]]
+Created a linux distribution on top of [[https://archlinux.org/][Arch linux]]. The distribution uses a manual tiling window manager ([[https://i3wm.org/][i3wm]]). Written various modules, scripts and programs to make the distribution lightweight and powerful at the same time.
+* Software Repositories
+- [[https://github.com/KanishakVaidya/kv-arch-repo][GitHub Link]]
+I maintain my own repositories of softwares that I use quite often and whose pre-build binaries are unavailable.

@@ -1,0 +1,29 @@
+#+title: HOME
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./style.css" />
+#+OPTIONS: html-style:nil toc:nil title:nil num:nil timestamp:nil
+
+#+begin_export html
+<ul class="sidebar" id="mySideNav">
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()"><b>MENU</b></a>
+  <a href="./index.html">Home</a>
+  <a href="./research-topics/_index.html">Research Topics</a>
+  <a class="active" href="./publications.html">Publications</a>
+  <a href="./projects/_index.html">Projects</a>
+  <a href="./bio.html">Bio</a>
+</ul>
+#+end_export
+
+#+INCLUDE: ./logo.org
+
+* Conferences
+- Kanishak Vaidya and B. Sundar Rajan, *``Cache-Aided Multi-User Private Information Retrieval Using PDAs,''* 2023 IEEE Information Theory Workshop (ITW), Saint-Malo, France, 23-28 April 2023.
+- Kanishak Vaidya and B. Sundar Rajan, *``Private Information Delivery with Coded Storage,''* 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June -- 2 July 2022. [[[https://ieeexplore.ieee.org/document/9834634][IEEE]]]
+- Kanishak Vaidya and B. Sundar Rajan, *``Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,''* 2020 - 2020 IEEE Global Communications Conference, 2020, pp. 1-6, doi: 10.1109/GLOBECOM42002.2020.9322092. [[[https://ieeexplore.ieee.org/document/9322092][IEEE]]]
+
+* Workshops
+- Kanishak Vaidya and B. Sundar Rajan, *``Cache-Aided Multi-Access Multi-User Private Information Retrieval,''* 2022 20th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), Torino, Italy, 2022, pp. 246-253, doi: 10.23919/WiOpt56218.2022.9930597. [[[https://ieeexplore.ieee.org/document/9930597][IEEE]]]
+
+* ArXiv Submissions
+- Kanishak Vaidya and B. Sundar Rajan, *``Cache-Aided Multi-User Private Information Retrieval using PDAs.''* arXiv:2212.12979, 26 December 2022. [[[https://arxiv.org/abs/2212.12979][ArXiv Link]]]
+- Kanishak Vaidya and B. Sundar Rajan, *``Multi-Access Cache-Aided Multi-User Private Information Retrieval,''* arXiv:2201.11481, 9 Feb 2022. [[[https://arxiv.org/abs/2201.11481][ArXiv Link]]]
+- Kanishak Vaidya and B. Sundar Rajan, *``Private Information Delivery with Coded Storage,''* arXiv:2202.03803, 8 Feb 2022. [[[https://arxiv.org/abs/2202.03803][ArXiv Link]]]

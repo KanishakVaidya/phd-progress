@@ -1,0 +1,46 @@
+#+title: Kanishak | Home
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./style.css" />
+#+OPTIONS: html-style:nil toc:nil title:nil num:nil timestamp:nil
+
+#+begin_export html
+<ul class="sidebar" id="mySideNav">
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()"><b>MENU</b></a>
+  <a class="active" href="./index.html">Home</a>
+  <a href="./research-topics/_index.html">Research Topics</a>
+  <a href="./publications.html">Publications</a>
+  <a href="./projects/_index.html">Projects</a>
+  <a href="./bio.html">Bio</a>
+</ul>
+#+end_export
+
+#+INCLUDE: ./logo.org
+
+* About Me
+I am pursuing PhD under the guidance of Prof B Sundar Rajan in the Department of Electrical Communication Engineering at the Indian Institute of Science (IISc), Bengaluru.
+
+I received the B.Tech degree in Electronics and Communication Engineering from Jawaharlal Nehru Government Engineering College, Sundernagar, HP.
+
+After securing AIR 10 in the GATE (EC) 2018, I joined ECE department of IISc Bangalore, for M.Tech in Signal Processing. In August 2019, I upgraded to PhD which I am currently pursuing.
+
+-----
+*** Broad Goal of Research
+#+begin_quote
+I am working on reducing the cost of privacy in distributed communication systems, e.g. cache-aided content delivery networks, distributed computations and information delivery networks.
+#+end_quote
+
+-----
+** [[file:research-topics/_index.org][Research Topics]]
+- Coded Caching
+- Private Information Retrieval
+- Private Information Delivery
+- Distributed Computing
+
+-----
+** Milestones
+| Event    | Duration     | Comments                                           |
+|----------+--------------+----------------------------------------------------|
+| PMRF     | January 2020 | Got Prime Minister's Research Fellowship           |
+| PhD      | August 2019  | Upgraded to PhD after first year of M. Tech        |
+| M. Tech  | August 2018  | Joined M. Tech (Signal Processing) program in IISc |
+| GATE(EC) | 2018         | All India Rank 10, GATE score: 1000                |
+| B. Tech  | August 2017  | Electronics and Communications Engineering         |

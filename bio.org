@@ -1,0 +1,64 @@
+#+title: BIO
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./style.css" />
+#+OPTIONS: html-style:nil toc:nil title:nil num:nil timestamp:nil
+
+#+begin_export html
+<ul class="sidebar" id="mySideNav">
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()"><b>MENU</b></a>
+  <a href="./index.html">Home</a>
+  <a href="./research-topics/_index.html">Research Topics</a>
+  <a href="./publications.html">Publications</a>
+  <a href="./projects/_index.html">Projects</a>
+  <a class="active" href="./bio.html">Bio</a>
+</ul>
+#+end_export
+
+#+INCLUDE: ./logo.org
+
+* About Kanishak Vaidya
+#+attr_html: alt: Kanishak Vaidya title: Headshot :width 300px :height auto :style float:left;margin-right:60px
+[[./static/profile-transparent.png]]
+
+
+** KANISHAK VAIDYA
+*** DOB: /10 December, 1995/
+*** Email: [[mailto:kanishakvaidya@gmail.com][kanishakvaidya@gmail.com]]
+*** Address: /IISc Bangalore, CV Raman Rd, Bengaluru, Karnataka. 560012/
+*** [[./static/resume.pdf][Download RESUME]]
+#+begin_export html
+<div style="clear:both; margin-top:-1px; height:1px; overflow:hidden;"></div>
+#+end_export
+
+  -----
+
+
+
+
+** Academic Background
+Kanishak Vaidya received the B.Tech. degree in Electronics and Communication Engineering from JawaharLal Nehru Government Engineering College, Sundernagar, HP India in 2017. He joined IISc Bangalore for M.Tech is Signal Processing in 2018 and is currently working towards the PhD degree with the Department of Electrical Communication Engineering, IISc Bangalore, India.
+
+*** Courses done during Ph.D and M.Tech.
+| Matrix Theory                           | Random Process                     |
+| Error Control Coding                    | Computer Vision                    |
+| Advance topics in Coding theory         | Detection and Estimation Theory    |
+| Digital Communication                   | Linear and Non Linear Optimization |
+| Space Time Signal Processing and Coding | Digital Image Processing           |
+| Time Frequency Analysis                 |                                    |
+
+| Credits : 34 | CGPA: 8.9 / 10 |
+-----
+** Achievements
++ Awarded Prime Minister's Research Fellowship (PMRF) in January 2020
++ All India Rank 10 in GATE (EC), 2018. GATE Score: 1000
++ 30th All India Rank in Junior Mathematical Olympiad, 2011
+-----
+** PhD Guide
+#+attr_html: alt: Prof. B S Rajan title: Prof. B Sundar Rajan :width 300 :style float:left;margin-right:60px
+[[./static/guide.jpg]]
+** Prof. B. Sundar Rajan
+*** Email: [[mailto:bsrajan@iisc.ac.in][bsrajan@iisc.ac.in]]
+*** Senior Professor /Department of Electrical Communication Engineering, Indian Institute of Science, Bangalore/
+*** Website: [[https://ece.iisc.ac.in/~bsrajan/]]
+#+begin_export html
+<div style="clear:both; margin-top:-1px; height:1px; overflow:hidden;"></div>
+#+end_export
