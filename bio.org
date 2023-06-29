@@ -24,7 +24,7 @@
 *** DOB: /10 December, 1995/
 *** Email: [[mailto:kanishakvaidya@gmail.com][kanishakvaidya@gmail.com]]
 *** Address: /IISc Bangalore, CV Raman Rd, Bengaluru, Karnataka. 560012/
-*** [[./static/resume.pdf][Download RESUME]]
+*** [[https://kanishakvaidya.github.io/resume/][RESUME]]
 #+begin_export html
 <div style="clear:both; margin-top:-1px; height:1px; overflow:hidden;"></div>
 #+end_export
