@@ -29,7 +29,7 @@ I am working on reducing the cost of privacy in distributed communication system
 #+end_quote
 
 -----
-** [[file:research-topics/_index.org][Research Topics]]
+** [[file:research-topics/index.org][Research Topics]]
 - Coded Caching
 - Private Information Retrieval
 - Private Information Delivery
