@@ -16,7 +16,7 @@
 #+INCLUDE: ./logo.org
 
 * Conferences
-- Kanishak Vaidya and B. Sundar Rajan, *``Cache-Aided Multi-User Private Information Retrieval Using PDAs,''* 2023 IEEE Information Theory Workshop (ITW), Saint-Malo, France, 23-28 April 2023.
+- Kanishak Vaidya and B. Sundar Rajan, *``Cache-Aided Multi-User Private Information Retrieval using PDAs,''* 2023 IEEE Information Theory Workshop (ITW), Saint-Malo, France, 2023, pp. 125-130, doi: 10.1109/ITW55543.2023.10161671. [[[https://ieeexplore.ieee.org/document/10161671/][IEEE]]]
 - Kanishak Vaidya and B. Sundar Rajan, *``Private Information Delivery with Coded Storage,''* 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June -- 2 July 2022. [[[https://ieeexplore.ieee.org/document/9834634][IEEE]]]
 - Kanishak Vaidya and B. Sundar Rajan, *``Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,''* 2020 - 2020 IEEE Global Communications Conference, 2020, pp. 1-6, doi: 10.1109/GLOBECOM42002.2020.9322092. [[[https://ieeexplore.ieee.org/document/9322092][IEEE]]]
 
