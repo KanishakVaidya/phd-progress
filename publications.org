@@ -15,6 +15,8 @@
 
 #+INCLUDE: ./logo.org
 
+* Journals
+- Kanishak Vaidya and B. Sundar Rajan, *``Multi-User PIR with Cyclic Wraparound Multi-Access Caches''*. Entropy 2023, 25, 1228. https://doi.org/10.3390/e25081228
 * Conferences
 - Kanishak Vaidya and B. Sundar Rajan, *``Cache-Aided Multi-User Private Information Retrieval using PDAs,''* 2023 IEEE Information Theory Workshop (ITW), Saint-Malo, France, 2023, pp. 125-130, doi: 10.1109/ITW55543.2023.10161671. [[[https://ieeexplore.ieee.org/document/10161671/][IEEE]]]
 - Kanishak Vaidya and B. Sundar Rajan, *``Private Information Delivery with Coded Storage,''* 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June -- 2 July 2022. [[[https://ieeexplore.ieee.org/document/9834634][IEEE]]]
