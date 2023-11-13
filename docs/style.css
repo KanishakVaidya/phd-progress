@@ -1,13 +1,29 @@
+@font-face {
+    font-family: 'SideBar';
+    src:  url('./static/JosefinSans-wght.ttf');
+    font-weight: 100 650;
+    font-stretch: 50;
+}
+
+@font-face {
+    font-family: 'MainBody';
+    src:  url('./static/RedHat-wght.ttf');
+    font-weight: 600 900;
+    font-stretch: 100;
+}
+
 body {
   margin: 0;
   padding: 0;
-  font-family: Helvetica, sans-serif;
+  font-family: 'MainBody', Helvetica, sans-serif;
   width: 67%;
   min-width: 850px;
 }
 
 .sidebar {
-  font-family: Monospace;
+  font-family: 'SideBar', Monospace;
+  font-size: 110%;
+  /* font-family: Monospace; */
   margin: 0;
   padding: 0;
   width: 200px;
@@ -63,7 +79,7 @@ div.outline-2, div.logo {
   div.outline-2 , div.logo {margin: 2%;}
 }
 
-@media screen and (max-width: 565px) {
+@media screen and (max-width: 600px) {
   .sidebar a {
     text-align: center;
     float: none;
