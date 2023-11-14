@@ -6,9 +6,14 @@
 }
 
 @font-face {
+    font-family: 'Headings';
+    src:  url('./static/OpenSans-wdth.wght.ttf');
+}
+
+@font-face {
     font-family: 'MainBody';
     src:  url('./static/RedHat-wght.ttf');
-    font-weight: 600 900;
+    font-weight: 100 3600;
     font-stretch: 100;
 }
 
@@ -43,13 +48,15 @@ body {
 }
 
 .sidebar a:hover {
-  background-color: #555;
+  /* background-color: #555; */
+  color: #C84B31;
   font-weight: Bold;
-  color: white;
+  /* color: white; */
 }
 
 .sidebar a.active {
-  background-color: #C84B31;
+  /* background-color: #C84B31; */
+  color: #C84B31;
   font-weight: Bold;
 }
 
@@ -121,19 +128,19 @@ blockquote {
 }
 
 h2, h3, h4 {
-  font-family: monospace;
+  font-family: 'Heading', monospace;
 }
 h2 {
-  font-size: 300%;
+  font-size: 200%;
   color: #C84B31;
   margin-top: 0;
 }
 h3 {
-  font-size: 200%;
+  font-size: 150%;
 }
 
 h4 {
-  font-size: 170%;
+  font-size: 130%;
 }
 
 .logo {
