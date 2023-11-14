@@ -37,15 +37,14 @@
 ** Academic Background
 Kanishak Vaidya received the B.Tech. degree in Electronics and Communication Engineering from JawaharLal Nehru Government Engineering College, Sundernagar, HP India in 2017. He joined IISc Bangalore for M.Tech is Signal Processing in 2018 and is currently working towards the PhD degree with the Department of Electrical Communication Engineering, IISc Bangalore, India.
 
-*** Courses done during Ph.D and M.Tech.
-| Matrix Theory                           | Random Process                     |
-| Error Control Coding                    | Computer Vision                    |
-| Advance topics in Coding theory         | Detection and Estimation Theory    |
-| Digital Communication                   | Linear and Non Linear Optimization |
-| Space Time Signal Processing and Coding | Digital Image Processing           |
-| Time Frequency Analysis                 |                                    |
-
-| Credits : 34 | CGPA: 8.9 / 10 |
+*** Education
+| Qualification   | Institute         | Specialization                  | Graduated |
+|-----------------+-------------------+---------------------------------+-----------|
+| *PhD*           | IISc Bangalore    | Communications                  | Nov 2023  |
+| *M.Tech*        | IISc Bangalore    | Signal Processing               | Jul 2023  |
+| *B.Tech*        | JNGEC Sundernagar | Electronics and Communications  | Jul 2017  |
+| *10+2*          | KV Mandi          | Non Medical and Medical Science | Mar 2013  |
+| *Matriculation* | KV Mandi          | Science                         | Mar 2011  |
 -----
 ** Achievements
 + Awarded Prime Minister's Research Fellowship (PMRF) in January 2020

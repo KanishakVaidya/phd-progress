@@ -25,11 +25,18 @@ After acquiring AIR 10 in GATE (EC) 2018, I joined IISc for an M.Tech in signal 
 - Achieved All India Rank 10 in GATE EC 2018. GATE Score: 1000
 - Achieved All India Rank 30 in Junior Mathematical Olympiad 2011
 -----
-** Education
-| Qualification   | Institute         | Specialization                  | Graduated |
-|-----------------+-------------------+---------------------------------+-----------|
-| *PhD*           | IISc Bangalore    | Communications                  | Nov 2023  |
-| *M.Tech*        | IISc Bangalore    | Signal Processing               | Jul 2023  |
-| *B.Tech*        | JNGEC Sundernagar | Electronics and Communications  | Jul 2017  |
-| *10+2*          | KV Mandi          | Non Medical and Medical Science | Mar 2013  |
-| *Matriculation* | KV Mandi          | Science                         | Mar 2011  |
+** Technical Skills
+- *PROGRAMMING:* Python, Octave/MATLAB, C/C++, Bash scripting
+- *SOFTWARE TOOLS:* LTspice, LabView, Arduino IDE, SimuLink
+- *MISCELLANEOUS:* Linux, SSH, git, $\LaTeX$, HTML/CSS, vim, emacs
+-----
+** Relevant Courses
+| *Matrix Theory*         | Random Process                 |
+| Error Control Coding    | *Digital Communication*        |
+| *Machine Learning*      | Detection and Estimation       |
+| Optimization            | *Space Time Signal Processing* |
+| *Computer Vision*       | Digital Image Processing       |
+| Time Frequency Analysis | *Wireless Communication*       |
+-----
+*** Useful links
+| [[https://kanishakvaidya.github.io/resume][Resume]] | [[https://www.linkedin.com/in/kanishakvaidya/][LinkedIn]] | [[mailto:kanishakvaidya@gmail.com][Email]] |
