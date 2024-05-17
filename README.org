@@ -1,0 +1,11 @@
+#+TITLE: Kanishak Vaidya | PMRF
+#+AUTHOR: Kanishak Vaidya
+#+DESCRIPTION: Repository made to host website as part of PMRF deliverables during PhD.
+#+OPTIONS: num:nil toc:nil validation:nil
+
+* This repository is archived
+Kanishak Vaidya completed his PhD from IISc Bangalore on November 2023.
+
+For current version of this website and for recent updates, visit:
+
+* [[https://kanishakvaidya.github.io/]]
